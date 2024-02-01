@@ -7,7 +7,7 @@ In questo progetto ci baseremo sui dati rilasciati dal Dipartimento di Stato Usa
 
 # Descrizione del Progetto
 
-Il progetto ha utilizzato 4 tabelle provenienti dalla seguente fonte https://data.world/travelwarnings/travel-danger:
+Il progetto ha utilizzato 4 tabelle provenienti da <a href="https://data.world/travelwarnings/travel-danger"> questa fonte</a>:
 - BTSCountryCode (rinominata *country_code.csv*)
 - BTSOriginUS_10_09_to_06_16 (rinominata *destinations.csv*)
 - SDamerican_deaths_abroad_10_09_to_06_16 (rinominata *deaths_abroad.csv*)
