@@ -17,5 +17,4 @@ Lo abbiamo fatto raccogliendo informazioni su Space X e creando dei cruscotti pe
 
 # Descrizione del Progetto 
 
-Il lavoro si compone di diversi file che rappresentano le fasi dell'attività, dall'estrapolazione dei dati fino all'applicazione di modelli di machine learning, passando dalla creazione di una dashboard
-
+Il lavoro si compone di diversi file che rappresentano le fasi dell'attività, dall'estrapolazione dei dati fino all'applicazione di modelli di machine learning e alla presentazione dei risultati, passando dalla pulizia dei dati e dalla creazione di una dashboard
