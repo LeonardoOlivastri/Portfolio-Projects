@@ -6,4 +6,4 @@ L'obiettivo è quello di creare delle dashboard a utilizzo dei ristoratori, dove
 
 # Descrizione del Progetto
 
-I datasets utilizzati sono reperibili al seguente <a href="https://ourworldindata.org/food-choice-vs-eating-local> link </a> 
+I datasets utilizzati sono reperibili al seguente <a href="https://ourworldindata.org/food-choice-vs-eating-local"> link </a> 
