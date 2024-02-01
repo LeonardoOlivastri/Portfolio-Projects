@@ -1,7 +1,7 @@
 # Introduzione al Progetto
 
 Un'azienda vuole lanciarsi nella creazione della sua prima app, ma prima vogliono identificare il settore giusto. 
-Decidono di adottare un approccio data-driven, quindi la richiesta è di analizzare i dati di tutto l’app store di Google (fonte https://www.kaggle.com/datasets/lava18/google-play-store-apps). 
+Decidono di adottare un approccio data-driven, quindi la richiesta è di analizzare i dati di tutto l’app store di Google, recuperabile da <a href="https://www.kaggle.com/datasets/lava18/google-play-store-apps">qui </a>. 
 
 
 # Descrizione del Progetto
