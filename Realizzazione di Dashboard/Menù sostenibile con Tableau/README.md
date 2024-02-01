@@ -6,4 +6,5 @@ L'obiettivo è quello di creare delle dashboard a utilizzo dei ristoratori, dove
 
 # Descrizione del Progetto
 
-I datasets utilizzati sono reperibili al seguente <a href="https://ourworldindata.org/food-choice-vs-eating-local"> link </a> 
+I datasets utilizzati sono reperibili al seguente <a href="https://ourworldindata.org/food-choice-vs-eating-local"> link </a>, 
+mentre le dashboard sono visionabili al <a href="https://public.tableau.com/views/EnvironmentalImpactofFood_17014270535480/ImpattideiSingoliCibi?:language=en-US&:display_count=n&:origin=viz_share_link" mio profilo di Tableau </a>
