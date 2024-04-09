@@ -1,7 +1,6 @@
 # Introduzione al Progetto
 
 Questo progetto consiste in alcuni script per la gestione di vari tipi di file.
-Non è detto che tu conosca già tutti i costrutti e le librerie che dovrai usare per portare a termine il progetto: fa parte del gioco!
 
 ## Step 1:
 
